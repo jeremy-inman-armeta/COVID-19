@@ -1,0 +1,2 @@
+raw_data_file_dir:C:\Users\Jeremy.Inman\Desktop\GitHub\COVID-19\csse_covid_19_data\csse_covid_19_daily_reports
+output_file_dir:C:\Users\Jeremy.Inman\Desktop\GitHub\COVID-19\output\
